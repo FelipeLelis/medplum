@@ -7,6 +7,29 @@ body,
   min-height: 100vh;
 }
 
+body {
+  background: #f7fbfa;
+  color: #11342f;
+}
+
+.mantine-AppShell-header {
+  border-bottom-color: rgba(17, 52, 47, 0.1);
+  background: linear-gradient(90deg, #ffffff 0%, #f0fbf8 100%);
+}
+
+.mantine-AppShell-navbar {
+  background: #fbfefd;
+}
+
+.mantine-Paper-root,
+.mantine-Card-root {
+  border-color: rgba(17, 52, 47, 0.1);
+}
+
+.mantine-AppShell-header img[alt='Logo'] {
+  max-width: min(220px, 42vw);
+}
+
 .grecaptcha-badge {
   visibility: hidden;
 }

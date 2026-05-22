@@ -35,7 +35,7 @@ export function SignInPage(): JSX.Element {
       login={searchParams.get('login') || undefined}
       projectId={searchParams.get('project') || undefined}
     >
-      <Logo size={32} />
+      <Logo size={50} />
       {searchParams.get('project') !== 'new' && (
         <Title order={3} py="lg" ta="center">
           Sign in to {getAppName()}

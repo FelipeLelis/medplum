@@ -1,0 +1,7 @@
+<svg width="336" height="68" viewBox="0 0 336 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="68" height="68" rx="14" fill="#0D6B63"/>
+  <path d="M21 34C21 26.8203 26.8203 21 34 21C41.1797 21 47 26.8203 47 34C47 41.1797 41.1797 47 34 47C26.8203 47 21 41.1797 21 34Z" fill="#DFF4EE"/>
+  <path d="M34 25V43M25 34H43" stroke="#0D6B63" stroke-width="5" stroke-linecap="round"/>
+  <text x="84" y="28" fill="#11342F" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Central de Inteligencia</text>
+  <text x="84" y="51" fill="#1D5EA8" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">Jornada Cancer de Mama</text>
+</svg>

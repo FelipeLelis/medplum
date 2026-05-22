@@ -31,6 +31,21 @@ export async function initApp(): Promise<void> {
   });
 
   const theme = createTheme({
+    primaryColor: 'jornada',
+    colors: {
+      jornada: [
+        '#effaf7',
+        '#dff4ee',
+        '#bfe7dd',
+        '#93d5c8',
+        '#62bfb0',
+        '#3ca99b',
+        '#148a7d',
+        '#0d6b63',
+        '#0a5751',
+        '#07433e',
+      ],
+    },
     headings: {
       sizes: {
         h1: {
